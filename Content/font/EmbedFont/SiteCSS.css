@@ -1,0 +1,28 @@
+﻿@import url('Font/mainFont.css');
+
+.fontcsssite {
+    font-family: BBNasim,YekanWebFont,Tahoma;
+    direction:rtl;
+}
+
+.HeaderSite {
+    font-size: 2vw;
+    background-color: aquamarine;
+}
+
+.MyFont {
+    font-family: BBNasim,YekanWebFont,Tahoma;
+}
+
+.MainDiv {
+    direction: rtl;
+    font-family: BBNasim,YekanWebFont,Tahoma;
+}
+
+.MRTop20 {
+    margin-top: 20px;
+}
+
+.DirectionError {
+    direction: ltr;
+}
